@@ -1,0 +1,40 @@
+h1 {
+    font-size: 60px;
+    background-image: linear-gradient(to right, #FEC20C, #D21404);
+    font-weight: 400;
+    font-family: Cursive;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: Courier, Cursive;
+    color: #0072A0;
+    font-weight: 300;
+}
+
+h3 {
+    font-size: 15px;
+    font-family: Cursive;
+    font-weight: 150;
+}
+
+h2#menu {
+    font-weight: bold;
+    font-size: 14px;
+    color: purple;
+}
+
+a {
+    color: #004764;
+}
+
+h2#job {
+    color: blue;
+}
+img {
+    width: 80px;
+    height: auto;
+    border: 1px;
+}
